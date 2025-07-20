@@ -1,0 +1,190 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/api-testing.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 190.1378 729.0236 532.3978 753.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/api-testing.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 79.5278 705.0236 486.2878 729.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/PageLabels 11 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author () /CreationDate (D:20250720173115+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250720173115+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (API Testing <https://PumukyDev.github.io/portswigger-websecurity-academy/api-testing.pdf>`_) /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 1 /Kids [ 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Length 2707
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 28 Tm .184882 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (API Testing <) Tj 0 .4 .6 rg (https://PumukyDev.github.io/portsw) Tj .133333 .133333 .133333 rg  T* 16.65 0 Td 0 .4 .6 rg (igger-websecurity-academy/api-testing.pdf) Tj .133333 .133333 .133333 rg (>) Tj (`_) Tj T* -16.83488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 199.9349 0 Td (API recon) Tj T* -199.9349 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 12 Tf 14.4 TL .60361 Tw (To start API testing, you first need to find out as much information about the API as) Tj T* 0 Tw (possible, to discover its attack surface.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 630.2236 cm
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F1 12 Tf 14.4 TL .332751 Tw (To begin, you should identify API endpoints. These are locations where an API receives) Tj T* 0 Tw 1.92048 Tw (requests about a specific resource on its server. For example, consider the following) Tj T* 0 Tw (GET request: GET /api/books HTTP/1.1 Host: example.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F1 12 Tf 14.4 TL .066784 Tw (The API endpoint for this request is /api/books. This results in an interaction with the API) Tj T* 0 Tw 1.579584 Tw (to retrieve a list of books from a library. Another API endpoint might be, for example,) Tj T* 0 Tw (/api/books/mystery, which would retrieve a list of mystery books.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F1 12 Tf 14.4 TL 2.332136 Tw (Once you have identified the endpoints, you need to determine how to interact with) Tj T* 0 Tw .930412 Tw (them. This enables you to construct valid HTTP requests to test the API. For example,) Tj T* 0 Tw (you should find out information about the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 476.6236 cm
+Q
+q
+1 0 0 1 62.69291 433.4236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F1 12 Tf 14.4 TL 5.835376 Tw (The input data the API processes, including both compulsory and optional) Tj T* 0 Tw 3.436576 Tw (parameters. The types of requests the API accepts, including supported HTTP) Tj T* 0 Tw (methods and media formats. Rate limits and authentication mechanisms.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 433.4236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Adri\341n Bertos G\363mez - PumukyDev) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+11 0 obj
+<<
+/Nums [ 0 12 0 R ]
+>>
+endobj
+12 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000560 00000 n 
+0000000786 00000 n 
+0000001014 00000 n 
+0000001101 00000 n 
+0000001449 00000 n 
+0000001508 00000 n 
+0000004267 00000 n 
+0000004308 00000 n 
+trailer
+<<
+/ID 
+[<a5e059fa551ce197ab27d636f47b3687><a5e059fa551ce197ab27d636f47b3687>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 13
+>>
+startxref
+4342
+%%EOF
