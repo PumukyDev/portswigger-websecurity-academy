@@ -12,4 +12,5 @@ portswigger-websecurity-academy
    :maxdepth: 2
    :caption: Contenido:
 
+   api-testing
    file-upload-vulnerabilities
