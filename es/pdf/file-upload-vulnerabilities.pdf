@@ -18,15 +18,15 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/es/file-upload-vulnerabilities.pdf)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 681.2236 188.4129 695.6236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/xx)
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 695.6236 167.0409 710.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/en/file-upload-vulnerabilities.pdf)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 660.8236 177.7329 675.2236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilities.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 675.2236 102.3729 689.6236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -51,7 +51,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20250721134224+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721134224+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20250721163407+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721163407+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Vulnerabilidades de subida de archivos) /Trapped /False
 >>
 endobj
@@ -62,7 +62,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 651.8236 0 ] /Parent 10 0 R /Title (\277Qu\351 son las vulnerabilidades de subida de archivos?)
+/Dest [ 7 0 R /XYZ 62.69291 666.2236 0 ] /Parent 10 0 R /Title (\277Qu\351 son las vulnerabilidades de subida de archivos?)
 >>
 endobj
 12 0 obj
@@ -72,7 +72,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Length 1491
+/Length 1340
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -84,20 +84,13 @@ BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 47.09488 0 Td (Vulnerabilidades de subida de a
 Q
 Q
 q
-1 0 0 1 62.69291 704.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (M\355ralo en formato PDF:) Tj T* ET
-Q
+1 0 0 1 62.69291 713.0236 cm
 Q
 q
-1 0 0 1 62.69291 698.6236 cm
+1 0 0 1 62.69291 713.0236 cm
 Q
 q
 1 0 0 1 62.69291 698.6236 cm
-Q
-q
-1 0 0 1 62.69291 684.2236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -111,7 +104,32 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 .4 .6 rg (Versi\363n en espa\361ol) Tj  T* ET
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 .4 .6 rg (cambiar idioma) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 692.6236 cm
+Q
+q
+1 0 0 1 62.69291 678.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 .4 .6 rg (pdf) Tj  T* ET
 Q
 Q
 q
@@ -122,38 +140,13 @@ q
 1 0 0 1 62.69291 678.2236 cm
 Q
 q
-1 0 0 1 62.69291 663.8236 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 .4 .6 rg (Versi\363n en ingl\351s) Tj  T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 62.69291 663.8236 cm
-Q
-q
-1 0 0 1 62.69291 630.8236 cm
+1 0 0 1 62.69291 645.2236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf .133333 .133333 .133333 rg (\277Qu\351 son las vulnerabilidades de subida de archivos?) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 610.4236 cm
+1 0 0 1 62.69291 624.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Las vulnerabilidades de subida de archivos...) Tj T* ET
@@ -185,21 +178,21 @@ xref
 0000000124 00000 n 
 0000000231 00000 n 
 0000000343 00000 n 
-0000000589 00000 n 
-0000000835 00000 n 
-0000000944 00000 n 
-0000001173 00000 n 
-0000001278 00000 n 
-0000001573 00000 n 
-0000001647 00000 n 
-0000001793 00000 n 
-0000001853 00000 n 
-0000003396 00000 n 
-0000003437 00000 n 
+0000000557 00000 n 
+0000000803 00000 n 
+0000000912 00000 n 
+0000001141 00000 n 
+0000001246 00000 n 
+0000001541 00000 n 
+0000001615 00000 n 
+0000001761 00000 n 
+0000001821 00000 n 
+0000003213 00000 n 
+0000003254 00000 n 
 trailer
 <<
 /ID 
-[<0d2aa4b13113377e1eaef12bbe4f07c3><0d2aa4b13113377e1eaef12bbe4f07c3>]
+[<02883cd5f1548f9c814f9fadb60e3f7b><02883cd5f1548f9c814f9fadb60e3f7b>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R
@@ -207,5 +200,5 @@ trailer
 /Size 16
 >>
 startxref
-3471
+3288
 %%EOF
