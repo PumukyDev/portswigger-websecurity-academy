@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portswigger-websecurity-academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 13:23+0000\n"
+"POT-Creation-Date: 2025-07-21 13:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,18 +16,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../file-upload-vulnerabilities.rst:7
+#: ../../file-upload-vulnerabilities.rst:11
 msgid "Adrián Bertos Gómez - PumukyDev"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:3
-msgid "`Vulnerabilidades de subida de archivos <https://PumukyDev.github.io/portswigger-websecurity-academy/file-upload-vulnerabilities.pdf>`_"
+#: ../../file-upload-vulnerabilities.rst:2
+msgid "Vulnerabilidades de subida de archivos"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:10
+#: ../../file-upload-vulnerabilities.rst:4
+msgid "Míralo en formato PDF:"
+msgstr ""
+
+#: ../../file-upload-vulnerabilities.rst:6
+msgid "`Versión en español <https://PumukyDev.github.io/portswigger-websecurity-academy/es/file-upload-vulnerabilities.pdf>`_"
+msgstr ""
+
+#: ../../file-upload-vulnerabilities.rst:7
+msgid "`Versión en inglés <https://PumukyDev.github.io/portswigger-websecurity-academy/en/file-upload-vulnerabilities.pdf>`_"
+msgstr ""
+
+#: ../../file-upload-vulnerabilities.rst:14
 msgid "¿Qué son las vulnerabilidades de subida de archivos?"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:11
+#: ../../file-upload-vulnerabilities.rst:15
 msgid "Las vulnerabilidades de subida de archivos..."
 msgstr ""

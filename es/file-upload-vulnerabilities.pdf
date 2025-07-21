@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 6 0 R
 >>
 endobj
 2 0 obj
@@ -18,13 +18,25 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/file-upload-vulnerabilities.pdf)
->> /Border [ 0 0 0 ] /Rect [ 109.7878 729.0236 485.4878 753.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/es/file-upload-vulnerabilities.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 681.2236 188.4129 695.6236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/en/file-upload-vulnerabilities.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 660.8236 177.7329 675.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 4 0 R 5 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -32,43 +44,116 @@ endobj
 >> /Type /Page
 >>
 endobj
-6 0 obj
-<<
-/PageLabels 10 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog
->>
-endobj
-7 0 obj
-<<
-/Author () /CreationDate (D:20250721132348+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721132348+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Vulnerabilidades de subida de archivos) /Trapped /False
->>
-endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/Outlines 10 0 R /PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog
 >>
 endobj
 9 0 obj
 <<
-/Length 671
+/Author () /CreationDate (D:20250721134224+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721134224+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Vulnerabilidades de subida de archivos) /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 1 /First 11 0 R /Last 11 0 R /Type /Outlines
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 651.8236 0 ] /Parent 10 0 R /Title (\277Qu\351 son las vulnerabilidades de subida de archivos?)
+>>
+endobj
+12 0 obj
+<<
+/Count 1 /Kids [ 7 0 R ] /Type /Pages
+>>
+endobj
+13 0 obj
+<<
+/Length 1491
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 729.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 47.09488 0 Td 24 TL /F2 20 Tf 0 .4 .6 rg (Vulnerabilidades de subida de archivos) Tj  T* -47.09488 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 699.0236 cm
-q
 .133333 .133333 .133333 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 41.12238 0 Td (\277Qu\351 son las vulnerabilidades de subida de archivos?) Tj T* -41.12238 0 Td ET
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 47.09488 0 Td (Vulnerabilidades de subida de archivos) Tj T* -47.09488 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 674.6236 cm
+1 0 0 1 62.69291 704.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (M\355ralo en formato PDF:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 698.6236 cm
+Q
+q
+1 0 0 1 62.69291 698.6236 cm
+Q
+q
+1 0 0 1 62.69291 684.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 .4 .6 rg (Versi\363n en espa\361ol) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 678.2236 cm
+Q
+q
+1 0 0 1 62.69291 663.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 .4 .6 rg (Versi\363n en ingl\351s) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 663.8236 cm
+Q
+q
+1 0 0 1 62.69291 630.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf .133333 .133333 .133333 rg (\277Qu\351 son las vulnerabilidades de subida de archivos?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Las vulnerabilidades de subida de archivos...) Tj T* ET
@@ -83,40 +168,44 @@ Q
  
 endstream
 endobj
-10 0 obj
+14 0 obj
 <<
-/Nums [ 0 11 0 R ]
+/Nums [ 0 15 0 R ]
 >>
 endobj
-11 0 obj
+15 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 12
+0 16
 0000000000 65535 f 
 0000000073 00000 n 
-0000000114 00000 n 
-0000000221 00000 n 
-0000000333 00000 n 
-0000000576 00000 n 
-0000000797 00000 n 
-0000000884 00000 n 
-0000001179 00000 n 
-0000001238 00000 n 
-0000001959 00000 n 
-0000002000 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000589 00000 n 
+0000000835 00000 n 
+0000000944 00000 n 
+0000001173 00000 n 
+0000001278 00000 n 
+0000001573 00000 n 
+0000001647 00000 n 
+0000001793 00000 n 
+0000001853 00000 n 
+0000003396 00000 n 
+0000003437 00000 n 
 trailer
 <<
 /ID 
-[<bace6451ab2eb7cb032692769f65f2e0><bace6451ab2eb7cb032692769f65f2e0>]
+[<0d2aa4b13113377e1eaef12bbe4f07c3><0d2aa4b13113377e1eaef12bbe4f07c3>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 12
+/Info 9 0 R
+/Root 8 0 R
+/Size 16
 >>
 startxref
-2034
+3471
 %%EOF
