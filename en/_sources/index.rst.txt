@@ -12,5 +12,5 @@ Academia de seguridad web de Portwigger
    :maxdepth: 2
    :caption: Contenido:
 
-   api-tenting
-   file-upload-vulnerabilitien
+   api-testing
+   file-upload-vulnerabilities

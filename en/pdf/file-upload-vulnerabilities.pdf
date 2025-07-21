@@ -25,7 +25,7 @@ endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilitien.pdf)
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilities.pdf)
 >> /Border [ 0 0 0 ] /Rect [ 85.69291 675.2236 102.3729 689.6236 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -51,8 +51,8 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20250721172855+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721172855+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Vulnerabilidaden de subida de archivos) /Trapped /False
+/Author () /CreationDate (D:20250721173315+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721173315+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Vulnerabilidades de subida de archivos) /Trapped /False
 >>
 endobj
 10 0 obj
@@ -62,7 +62,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 666.2236 0 ] /Parent 10 0 R /Title (\277Qu\351 son las vulnerabilidaden de subida de archivos?)
+/Dest [ 7 0 R /XYZ 62.69291 666.2236 0 ] /Parent 10 0 R /Title (\277Qu\351 son las vulnerabilidades de subida de archivos?)
 >>
 endobj
 12 0 obj
@@ -80,7 +80,7 @@ q
 1 0 0 1 62.69291 729.0236 cm
 q
 .133333 .133333 .133333 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 46.54488 0 Td (Vulnerabilidaden de subida de archivos) Tj T* -46.54488 0 Td ET
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 47.09488 0 Td (Vulnerabilidades de subida de archivos) Tj T* -47.09488 0 Td ET
 Q
 Q
 q
@@ -142,14 +142,14 @@ Q
 q
 1 0 0 1 62.69291 645.2236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf .133333 .133333 .133333 rg (\277Qu\351 son las vulnerabilidaden de subida de archivos?) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf .133333 .133333 .133333 rg (\277Qu\351 son las vulnerabilidades de subida de archivos?) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 624.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Las vulnerabilidaden de subida de archivos...) Tj T* ET
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Las vulnerabilidades de subida de archivos...) Tj T* ET
 Q
 Q
 q
@@ -192,7 +192,7 @@ xref
 trailer
 <<
 /ID 
-[<f1b83448e718bd6d259dc3d219975511><f1b83448e718bd6d259dc3d219975511>]
+[<5bed41b288b064dd93ba215aeba48028><5bed41b288b064dd93ba215aeba48028>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portswigger-websecurity-academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 17:28+0000\n"
+"POT-Creation-Date: 2025-07-21 17:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Adrián Bertos Gómez - PumukyDev"
 msgstr ""
 
 #: ../../file-upload-vulnerabilities.rst:3
-msgid "VulnerabilidadXX de subida de archivos"
+msgid "Vulnerabilidades de subida de archivos"
 msgstr ""
 
 #: ../../file-upload-vulnerabilities.rst:5
@@ -29,13 +29,13 @@ msgid "`cambiar idioma <https://PumukyDev.github.io/portswigger-websecurity-acad
 msgstr ""
 
 #: ../../file-upload-vulnerabilities.rst:7
-msgid "`pdf <https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilitiXX.pdf>`_"
+msgid "`pdf <https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilities.pdf>`_"
 msgstr ""
 
 #: ../../file-upload-vulnerabilities.rst:14
-msgid "¿Qué son las vulnerabilidadXX de subida de archivos?"
+msgid "¿Qué son las vulnerabilidades de subida de archivos?"
 msgstr ""
 
 #: ../../file-upload-vulnerabilities.rst:15
-msgid "Las vulnerabilidadXX de subida de archivos..."
+msgid "Las vulnerabilidades de subida de archivos..."
 msgstr ""

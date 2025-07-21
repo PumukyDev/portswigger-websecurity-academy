@@ -3,12 +3,12 @@ Prueba de APIS |pdf| |idioma|
 
 .. |pdf| image:: assets/main/pdf.png
    :height: 20px
-   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en/api-tenting.pdf
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es/api-testing.pdf
    :alt: PDF
 
-.. |idioma| image:: assets/main/en.jpg
+.. |idioma| image:: assets/main/es.png
    :height: 20px
-   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en/api-tenting.html
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es/api-testing.html
    :alt: Página web
 
 .. header::
@@ -17,4 +17,4 @@ Prueba de APIS |pdf| |idioma|
 
 Reconocimiento de API
 ---------------------
-Primero hay que dencubrir las APIS de la web
+Primero hay que descubrir las APIS de la web
