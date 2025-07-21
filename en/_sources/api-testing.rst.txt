@@ -1,26 +1,15 @@
-Prueba de APIS |pdf-es| |pdf-en| |es| |en|
-=========================================
+Prueba de APIS |pdf| |idioma|
+=============================
 
-.. |pdf-es| image:: assets/main/pdf.svg
+.. |pdf| image:: assets/main/pdf.png
    :height: 20px
    :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es/api-testing.pdf
-   :alt: PDF en español
+   :alt: PDF
 
-.. |pdf-en| image:: assets/main/pdf.svg
+.. |idioma| image:: assets/main/es.png
    :height: 20px
-   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en/api-testing.pdf
-   :alt: PDF en inglés
-
-.. |es| image:: assets/main/es.svg
-   :height: 20px
-   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es
-   :alt: Página en español
-
-.. |en| image:: assets/main/en.svg
-   :height: 20px
-   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en
-   :alt: Página en inglés
-
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es/api-testing.html
+   :alt: Página web
 
 .. header::
 

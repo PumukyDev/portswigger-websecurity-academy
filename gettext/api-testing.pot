@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portswigger-websecurity-academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 16:42+0000\n"
+"POT-Creation-Date: 2025-07-21 17:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,34 +16,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../api-testing.rst:27
+#: ../../api-testing.rst:16
 msgid "Adrián Bertos Gómez - PumukyDev"
 msgstr ""
 
 #: ../../api-testing.rst:2
-msgid "Prueba de APIS |pdf-es| |pdf-en| |es| |en|"
+msgid "Prueba de APIS |pdf| |idioma|"
 msgstr ""
 
 #: ../../api-testing.rst:4
-msgid "PDF en español"
+msgid "PDF"
 msgstr ""
 
 #: ../../api-testing.rst:9
-msgid "PDF en inglés"
-msgstr ""
-
-#: ../../api-testing.rst:14
-msgid "Página en español"
+msgid "Página web"
 msgstr ""
 
 #: ../../api-testing.rst:19
-msgid "Página en inglés"
-msgstr ""
-
-#: ../../api-testing.rst:30
 msgid "Reconocimiento de API"
 msgstr ""
 
-#: ../../api-testing.rst:31
+#: ../../api-testing.rst:20
 msgid "Primero hay que descubrir las APIS de la web"
 msgstr ""
