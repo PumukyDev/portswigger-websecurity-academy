@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portswigger-websecurity-academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 18:03+0000\n"
+"POT-Creation-Date: 2025-07-21 18:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Adrián Bertos Gómez - PumukyDev"
 msgstr ""
 
 #: ../../api-testing.rst:2
-msgid "Prueba de APIS |pdf| |idioma|"
+msgid "Prueba de APIS |pdf| |language|"
 msgstr ""
 
 #: ../../api-testing.rst:4
