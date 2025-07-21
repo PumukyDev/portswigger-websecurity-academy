@@ -1,6 +1,10 @@
-===============================================================================================
-`Prueba de APIS <https://PumukyDev.github.io/portswigger-websecurity-academy/api-testing.pdf>`_
-===============================================================================================
+Prueba de APIS
+==============
+
+Míralo en formato PDF:
+
+- `Versión en español <https://PumukyDev.github.io/portswigger-websecurity-academy/es/api-testing.pdf>`_
+- `Versión en inglés <https://PumukyDev.github.io/portswigger-websecurity-academy/en/api-testing.pdf>`_
 
 .. header::
 
