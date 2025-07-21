@@ -18,8 +18,8 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/api-testing.pdf)
->> /Border [ 0 0 0 ] /Rect [ 223.1678 729.0236 372.1078 753.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://PumukyDev.github.io/portswigger-websecurity-academy/file-upload-vulnerabilities.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 109.7878 729.0236 485.4878 753.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
@@ -39,8 +39,8 @@ endobj
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20250721130614+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721130614+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Prueba de APIS) /Trapped /False
+/Author () /CreationDate (D:20250721132348+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250721132348+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Vulnerabilidades de subida de archivos) /Trapped /False
 >>
 endobj
 8 0 obj
@@ -50,28 +50,28 @@ endobj
 endobj
 9 0 obj
 <<
-/Length 609
+/Length 671
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 729.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 160.4749 0 Td 24 TL /F2 20 Tf 0 .4 .6 rg (Prueba de APIS) Tj  T* -160.4749 0 Td ET
+BT 1 0 0 1 0 4 Tm 47.09488 0 Td 24 TL /F2 20 Tf 0 .4 .6 rg (Vulnerabilidades de subida de archivos) Tj  T* -47.09488 0 Td ET
 Q
 Q
 q
 1 0 0 1 62.69291 699.0236 cm
 q
 .133333 .133333 .133333 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 151.1774 0 Td (Reconocimiento de API) Tj T* -151.1774 0 Td ET
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 41.12238 0 Td (\277Qu\351 son las vulnerabilidades de subida de archivos?) Tj T* -41.12238 0 Td ET
 Q
 Q
 q
 1 0 0 1 62.69291 674.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Primero hay que descubrir las APIS de la web) Tj T* ET
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Las vulnerabilidades de subida de archivos...) Tj T* ET
 Q
 Q
 q
@@ -100,17 +100,17 @@ xref
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000560 00000 n 
-0000000781 00000 n 
-0000000868 00000 n 
-0000001139 00000 n 
-0000001198 00000 n 
-0000001857 00000 n 
-0000001898 00000 n 
+0000000576 00000 n 
+0000000797 00000 n 
+0000000884 00000 n 
+0000001179 00000 n 
+0000001238 00000 n 
+0000001959 00000 n 
+0000002000 00000 n 
 trailer
 <<
 /ID 
-[<752983e920b88c396ffdc1808194b2b8><752983e920b88c396ffdc1808194b2b8>]
+[<bace6451ab2eb7cb032692769f65f2e0><bace6451ab2eb7cb032692769f65f2e0>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 7 0 R
@@ -118,5 +118,5 @@ trailer
 /Size 12
 >>
 startxref
-1932
+2034
 %%EOF
