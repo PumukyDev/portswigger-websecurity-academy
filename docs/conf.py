@@ -16,6 +16,7 @@ release = '0.1'
 
 extensions = [
     "rst2pdf.pdfbuilder",
+    "sphinx_intl",
 ]
 
 pdf_documents = [('index', 'portswigger-websecurity-academy', 'portswigger-websecurity-academy', 'Adrian')]
@@ -25,6 +26,9 @@ templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 language = 'es'
+
+locale_dirs = ['locale/']
+gettext_compact = False
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

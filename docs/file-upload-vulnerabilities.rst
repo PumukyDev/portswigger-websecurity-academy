@@ -1,13 +1,11 @@
-===========================================================================================================================
-File upload vulnerabilities <https://PumukyDev.github.io/portswigger-websecurity-academy/file-upload-vulnerabilities.pdf>`_
-===========================================================================================================================
+=======================================================================================================================================
+`Vulnerabilidades de subida de archivos <https://PumukyDev.github.io/portswigger-websecurity-academy/file-upload-vulnerabilities.pdf>`_
+=======================================================================================================================================
 
 .. header::
 
     Adrián Bertos Gómez - PumukyDev
 
-What are file upload vulnerabilities?
--------------------------------------
-File upload vulnerabilities are when a web server allows users to upload files to its filesystem without sufficiently validating things like their name, type, contents, or size. Failing to properly enforce restrictions on these could mean that even a basic image upload function can be used to upload arbitrary and potentially dangerous files instead. This could even include server-side script files that enable remote code execution.
-
-In some cases, the act of uploading the file is in itself enough to cause damage. Other attacks may involve a follow-up HTTP request for the file, typically to trigger its execution by the server. 
+¿Qué son las vulnerabilidades de subida de archivos?
+----------------------------------------------------
+Las vulnerabilidades de subida de archivos...

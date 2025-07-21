@@ -2,7 +2,7 @@
 Portswigger Websecurity Academy
 ===============================
 
-portswigger-websecurity-academy
+Academia de seguridad web de Portwigger
 
 .. image:: assets/index/portswigger.png
    :alt: Portswigger

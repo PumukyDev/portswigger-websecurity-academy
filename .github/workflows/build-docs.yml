@@ -1,4 +1,4 @@
-name: Build and Deploy Sphinx Docs
+name: Translate, build and deploy Sphinx docs
 
 on:
   push:
@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # Set-up
     - name: Checkout repository
       uses: actions/checkout@v4
 
@@ -23,37 +24,58 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install sphinx sphinx-rtd-theme rst2pdf
+        pip install sphinx alabaster rst2pdf sphinx-intl polib requests
 
-    - name: Build HTML documentation
+    # Spanish
+    - name: Build HTML
       run: |
         cd docs
-        sphinx-build -b html . _build/html
+        sphinx-build -b html . _build/es/html
 
     - name: Convert RST to PDF
       run: |
         cd docs
-        mkdir -p _build/pdf
+        mkdir -p _build/es/pdf
         for file in *.rst; do
-          rst2pdf "$file" -o "_build/pdf/${file%.rst}.pdf" -s pdfstyle.json
+          rst2pdf "$file" -o "_build/es/pdf/${file%.rst}.pdf" -s pdfstyle.json
         done
-        cp _build/pdf/*.pdf _build/html/
+        cp _build/es/pdf/*.pdf _build/es/html/
 
-    - name: Upload HTML documentation
-      uses: actions/upload-artifact@v4
-      with:
-        name: documentation-html
-        path: docs/_build/html
+    # English
+    - name: Extract translation templates
+      run: |
+        cd docs
+        sphinx-build -b gettext . _build/gettext
 
-    - name: Upload PDF documentation
-      uses: actions/upload-artifact@v4
-      with:
-        name: documentation-pdf
-        path: docs/_build/pdf/*.pdf
+    - name: Update .po files for EN
+      run: |
+        cd docs
+        sphinx-intl update -p _build/gettext -l en
 
+    - name: Translate PO files
+      env:
+        DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+      run: |
+        python translate_po.py
+
+    - name: Build HTML
+      run: |
+        cd docs
+        sphinx-build -b html -D language=en . _build/en/html
+
+    - name: Convert RST to PDF
+      run: |
+        cd docs
+        mkdir -p _build/en/pdf
+        for file in *.rst; do
+          rst2pdf "$file" -o "_build/en/pdf/${file%.rst}.pdf" -s pdfstyle.json
+        done
+        cp _build/en/pdf/*.pdf _build/en/html/
+
+    # Publish docs
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: docs/_build/html
+        publish_dir: docs/_build
         publish_branch: gh-pages
