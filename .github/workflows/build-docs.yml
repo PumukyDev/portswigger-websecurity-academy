@@ -30,7 +30,7 @@ jobs:
     - name: Build HTML
       run: |
         cd docs
-        sphinx-build -b html . _build/es/html
+        sphinx-build -b html . _build/es
 
     - name: Convert RST to PDF
       run: |
@@ -39,7 +39,7 @@ jobs:
         for file in *.rst; do
           rst2pdf "$file" -o "_build/es/pdf/${file%.rst}.pdf" -s pdfstyle.json
         done
-        cp _build/es/pdf/*.pdf _build/es/html/
+        cp _build/es/pdf/*.pdf _build/es/
 
     # English
     - name: Extract translation templates
@@ -61,7 +61,7 @@ jobs:
     - name: Build HTML
       run: |
         cd docs
-        sphinx-build -b html -D language=en . _build/en/html
+        sphinx-build -b html -D language=en . _build/en
 
     - name: Convert RST to PDF
       run: |
@@ -70,7 +70,7 @@ jobs:
         for file in *.rst; do
           rst2pdf "$file" -o "_build/en/pdf/${file%.rst}.pdf" -s pdfstyle.json
         done
-        cp _build/en/pdf/*.pdf _build/en/html/
+        cp _build/en/pdf/*.pdf _build/en/
 
     # Publish docs
     - name: Deploy to GitHub Pages
