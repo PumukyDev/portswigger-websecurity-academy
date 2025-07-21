@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install sphinx alabaster rst2pdf sphinx-intl polib requests
+        pip install sphinx alabaster rst2pdf sphinx-intl polib requests svglib
 
     # Spanish
     - name: Build HTML
