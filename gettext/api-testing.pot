@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, adrian
+# This file is distributed under the same license as the portswigger-websecurity-academy package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: portswigger-websecurity-academy \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-21 13:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../api-testing.rst:7
+msgid "Adrián Bertos Gómez - PumukyDev"
+msgstr ""
+
+#: ../../api-testing.rst:3
+msgid "`Prueba de APIS <https://PumukyDev.github.io/portswigger-websecurity-academy/api-testing.pdf>`_"
+msgstr ""
+
+#: ../../api-testing.rst:10
+msgid "Reconocimiento de API"
+msgstr ""
+
+#: ../../api-testing.rst:11
+msgid "Primero hay que descubrir las APIS de la web"
+msgstr ""
