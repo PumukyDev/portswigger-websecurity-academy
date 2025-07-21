@@ -63,6 +63,11 @@ jobs:
         cd docs
         sphinx-build -b html -D language=en . _build/en
 
+    - name: Replace en/ with es/ in English HTML
+      run: |
+        cd docs/_build/en
+        find . -type f -name "*.html" -exec sed -i 's|https://PumukyDev.github.io/portswigger-websecurity-academy/en/|https://PumukyDev.github.io/portswigger-websecurity-academy/es/|g' {} +
+
     - name: Convert RST to PDF
       run: |
         cd docs
