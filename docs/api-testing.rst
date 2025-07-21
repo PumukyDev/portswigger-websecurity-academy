@@ -6,7 +6,7 @@ Prueba de APIS |pdf| |idioma|
    :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es/api-testing.pdf
    :alt: PDF
 
-.. |idioma| image:: assets/main/es.jpg
+.. |idioma| image:: assets/main/en.jpg
    :height: 20px
    :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en/api-testing.html
    :alt: Página web
