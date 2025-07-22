@@ -1,9 +1,7 @@
-Prueba de APIS 
-==============
+.. title:: Prueba de APIS
 
-.. raw:: html
-
-   <span style="float:right;">|pdf| |language|</span>
+Prueba de APIS (|pdf| |language|)
+=================================
 
 .. |pdf| image:: assets/main/pdf.png
    :height: 20px
