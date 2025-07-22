@@ -1,5 +1,7 @@
-Prueba de APIS |pdf| |language|
-================================
+.. title:: Prueba de APIS
+
+Prueba de APIS (|pdf| |language|)
+=================================
 
 .. |pdf| image:: assets/main/pdf.png
    :height: 20px
