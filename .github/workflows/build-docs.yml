@@ -50,6 +50,8 @@ jobs:
     - name: Update .po files for EN
       run: |
         cd docs
+        rm -rf locale/en
+        mkdir -p locale/en/LC_MESSAGES
         sphinx-intl update -p _build/gettext -l en
 
     - name: Translate PO files
