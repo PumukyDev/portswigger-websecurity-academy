@@ -1,5 +1,6 @@
-Prueba de APIS |pdf| |language|
-================================
+Prueba de APIS
+|pdf| |language|
+===============
 
 .. |pdf| image:: assets/main/pdf.png
    :height: 20px
