@@ -82,6 +82,11 @@ jobs:
           -e 's|_images/en.jpg|_images/es.jpg|g' \
           -e 's|https://PumukyDev.github.io/portswigger-websecurity-academy/en/|https://PumukyDev.github.io/portswigger-websecurity-academy/es/|g' {} +
 
+    - name: Remove PDF icon in English version
+      run: |
+        cd docs/_build/en
+        find . -type f -name "*.html" -exec sed -i 's|<a class="reference external" href="https://PumukyDev.github.io/portswigger-websecurity-academy/es/[^"]*\.pdf"><img[^>]*pdf\.png[^>]*></a> ||g' {} +
+
     - name: Fix TOC titles (remove empty parentheses)
       run: |
         cd docs/_build/en
