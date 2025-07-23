@@ -74,22 +74,13 @@ jobs:
       run: |
         cd docs/_build/en
         find . -type f -name "*.html" -exec sed -i \
-          -e 's|assets/main/en.jpg|assets/main/es.jpg|g' \
+          -e 's|_images/en.jpg|_images/es.jpg|g' \
           -e 's|https://PumukyDev.github.io/portswigger-websecurity-academy/en/|https://PumukyDev.github.io/portswigger-websecurity-academy/es/|g' {} +
 
     - name: Fix TOC titles (remove empty parentheses)
       run: |
         cd docs/_build/en
         find . -type f -name "*.html" -exec sed -i 's/ ( )//g' {} +
-
-    - name: Convert RST to PDF
-      run: |
-        cd docs
-        mkdir -p _build/en/pdf
-        for file in *.rst; do
-          rst2pdf "$file" -o "_build/en/pdf/${file%.rst}.pdf" -s pdfstyle.json
-        done
-        cp _build/en/pdf/*.pdf _build/en/
 
     # Publish docs
     - name: Deploy to GitHub Pages
