@@ -70,6 +70,11 @@ jobs:
         cd docs
         sphinx-build -b html -D language=en . _build/en
 
+    - name: Copy Spanish flag to English build
+      run: |
+        mkdir -p docs/_build/en/_images
+        cp docs/assets/main/es.jpg docs/_build/en/_images/
+
     - name: Fix language switcher in English HTML
       run: |
         cd docs/_build/en
