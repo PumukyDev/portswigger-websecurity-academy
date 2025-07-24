@@ -69,8 +69,8 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20250724173338+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250724173338+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (PortSwigger Web Security Academy \(P\341gina web\)) /Trapped /False
+/Author () /CreationDate (D:20250724174241+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250724174241+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Apuntes Haking Web \(P\341gina web\)) /Trapped /False
 >>
 endobj
 11 0 obj
@@ -80,7 +80,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 869
+/Length 855
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -88,10 +88,10 @@ q
 1 0 0 1 62.69291 741.0236 cm
 q
 q
-7.2 0 0 4.8 406.3949 0 cm
+7.2 0 0 4.8 334.1349 0 cm
 /FormXob.05dce7454d32f3c1bee465a064e28934 Do
 Q
-BT 1 0 0 1 0 4 Tm 49.63488 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (PortSwigger Web Security Academy \() Tj 363.96 0 Td (\)) Tj T* -413.5949 0 Td ET
+BT 1 0 0 1 0 4 Tm 121.8949 0 Td 24 TL /F2 20 Tf .133333 .133333 .133333 rg (Apuntes Haking Web \() Tj 219.44 0 Td (\)) Tj T* -341.3349 0 Td ET
 Q
 Q
 q
@@ -147,16 +147,16 @@ xref
 0000240753 00000 n 
 0000241021 00000 n 
 0000241109 00000 n 
-0000241417 00000 n 
-0000241483 00000 n 
-0000242403 00000 n 
-0000242606 00000 n 
-0000242656 00000 n 
-0000242690 00000 n 
+0000241403 00000 n 
+0000241469 00000 n 
+0000242375 00000 n 
+0000242578 00000 n 
+0000242628 00000 n 
+0000242662 00000 n 
 trailer
 <<
 /ID 
-[<1af63b018a0c76d9b3fa61346e143ad2><1af63b018a0c76d9b3fa61346e143ad2>]
+[<1bbeb3e59c155faaf8991110241d71f8><1bbeb3e59c155faaf8991110241d71f8>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -164,5 +164,5 @@ trailer
 /Size 17
 >>
 startxref
-242724
+242696
 %%EOF
