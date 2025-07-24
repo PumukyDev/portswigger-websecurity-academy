@@ -1,9 +1,9 @@
-PortSwigger Web Security Academy (|language|)
-=============================================
+Apuntes Hacking Web (|language|)
+===============================
 
 .. |language| image:: assets/main/en.jpg
    :height: 20px
-   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en/
    :alt: Página web
 
 Aquí puedes encontar mis apuntes y resoluciones de los diferentes caminos de aprendizaje de la
