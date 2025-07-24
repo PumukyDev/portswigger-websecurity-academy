@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025, adrian
-# This file is distributed under the same license as the portswigger-websecurity-academy package.
+# Copyright (C) 2025, PumukyDev
+# This file is distributed under the same license as the Portswigger Websecurity Academy package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: portswigger-websecurity-academy \n"
+"Project-Id-Version: Portswigger Websecurity Academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-23 07:29+0000\n"
+"POT-Creation-Date: 2025-07-24 17:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,18 +16,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../index.rst:11
+#: ../../index.rst:18
 msgid "Contenido:"
 msgstr ""
 
-#: ../../index.rst:3
-msgid "Portswigger Websecurity Academy"
+#: ../../index.rst:2
+msgid "PortSwigger Web Security Academy (|language|)"
 msgstr ""
 
-#: ../../index.rst:5
-msgid "Academia de seguridad web de Portwigger"
+#: ../../index.rst:4
+msgid "Página web"
 msgstr ""
 
-#: ../../index.rst:7
-msgid "Portswigger"
+#: ../../index.rst:9
+msgid "Aquí puedes encontar mis apuntes y resoluciones de los diferentes caminos de aprendizaje de la `academia de hacking web de PortSwigger <https://portswigger.net/web-security/learning-paths>`_. La idea es documentar de forma ordenada todo lo que voy practicando, incluyendo técnicas, vulnerabilidades y ejemplos, para crear una **guía personal de estudio** sobre seguridad web."
+msgstr ""
+
+#: ../../index.rst:14
+msgid "PortSwigger"
 msgstr ""

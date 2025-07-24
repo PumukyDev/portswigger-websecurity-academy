@@ -1,5 +1,3 @@
-.. title:: Prueba de APIS
-
 Prueba de APIS (|pdf| |language|)
 =================================
 

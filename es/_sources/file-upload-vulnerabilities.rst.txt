@@ -1,10 +1,15 @@
-======================================
-Vulnerabilidades de subida de archivos
-======================================
+Vulnerabilidades de subida de archivos (|pdf| |language|)
+=========================================================
 
-- `cambiar idioma <https://PumukyDev.github.io/portswigger-websecurity-academy/xx>`_
+.. |pdf| image:: assets/main/pdf.png
+   :height: 20px
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/es/file-upload-vulnerabilities.pdf
+   :alt: PDF
 
-- `pdf <https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilities.pdf>`_
+.. |language| image:: assets/main/en.jpg
+   :height: 20px
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en/file-upload-vulnerabilities.html
+   :alt: Página web
 
 .. header::
 

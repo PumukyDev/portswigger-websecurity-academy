@@ -1,11 +1,18 @@
-===============================
-Portswigger Websecurity Academy
-===============================
+PortSwigger Web Security Academy (|language|)
+=============================================
 
-Academia de seguridad web de Portwigger
+.. |language| image:: assets/main/en.jpg
+   :height: 20px
+   :target: https://PumukyDev.github.io/portswigger-websecurity-academy/en
+   :alt: Página web
+
+Aquí puedes encontar mis apuntes y resoluciones de los diferentes caminos de aprendizaje de la
+`academia de hacking web de PortSwigger <https://portswigger.net/web-security/learning-paths>`_.
+La idea es documentar de forma ordenada todo lo que voy practicando, incluyendo técnicas, vulnerabilidades
+y ejemplos, para crear una **guía personal de estudio** sobre seguridad web.
 
 .. image:: assets/index/portswigger.png
-   :alt: Portswigger
+   :alt: PortSwigger
    :align: center
 
 .. toctree::

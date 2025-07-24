@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025, adrian
-# This file is distributed under the same license as the portswigger-websecurity-academy package.
+# Copyright (C) 2025, PumukyDev
+# This file is distributed under the same license as the Portswigger Websecurity Academy package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: portswigger-websecurity-academy \n"
+"Project-Id-Version: Portswigger Websecurity Academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-23 07:29+0000\n"
+"POT-Creation-Date: 2025-07-24 17:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,26 +16,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../file-upload-vulnerabilities.rst:11
+#: ../../file-upload-vulnerabilities.rst:16
 msgid "Adrián Bertos Gómez - PumukyDev"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:3
-msgid "Vulnerabilidades de subida de archivos"
+#: ../../file-upload-vulnerabilities.rst:2
+msgid "Vulnerabilidades de subida de archivos (|pdf| |language|)"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:5
-msgid "`cambiar idioma <https://PumukyDev.github.io/portswigger-websecurity-academy/xx>`_"
+#: ../../file-upload-vulnerabilities.rst:4
+msgid "PDF"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:7
-msgid "`pdf <https://PumukyDev.github.io/portswigger-websecurity-academy/xx/file-upload-vulnerabilities.pdf>`_"
+#: ../../file-upload-vulnerabilities.rst:9
+msgid "Página web"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:14
+#: ../../file-upload-vulnerabilities.rst:19
 msgid "¿Qué son las vulnerabilidades de subida de archivos?"
 msgstr ""
 
-#: ../../file-upload-vulnerabilities.rst:15
+#: ../../file-upload-vulnerabilities.rst:20
 msgid "Las vulnerabilidades de subida de archivos..."
 msgstr ""

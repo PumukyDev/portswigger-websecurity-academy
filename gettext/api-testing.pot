@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025, adrian
-# This file is distributed under the same license as the portswigger-websecurity-academy package.
+# Copyright (C) 2025, PumukyDev
+# This file is distributed under the same license as the Portswigger Websecurity Academy package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: portswigger-websecurity-academy \n"
+"Project-Id-Version: Portswigger Websecurity Academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-23 07:29+0000\n"
+"POT-Creation-Date: 2025-07-24 17:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,26 +16,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../api-testing.rst:18
+#: ../../api-testing.rst:16
 msgid "Adrián Bertos Gómez - PumukyDev"
 msgstr ""
 
-#: ../../api-testing.rst:4
+#: ../../api-testing.rst:2
 msgid "Prueba de APIS (|pdf| |language|)"
 msgstr ""
 
-#: ../../api-testing.rst:6
+#: ../../api-testing.rst:4
 msgid "PDF"
 msgstr ""
 
-#: ../../api-testing.rst:11
+#: ../../api-testing.rst:9
 msgid "Página web"
 msgstr ""
 
-#: ../../api-testing.rst:21
+#: ../../api-testing.rst:19
 msgid "Reconocimiento de API"
 msgstr ""
 
-#: ../../api-testing.rst:22
+#: ../../api-testing.rst:20
 msgid "Primero hay que descubrir las APIS de la web"
 msgstr ""
