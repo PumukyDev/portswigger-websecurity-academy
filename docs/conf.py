@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'portswigger-websecurity-academy'
-copyright = '2025, adrian'
-author = 'adrian'
+project = 'Portswigger Websecurity Academy'
+copyright = '2025, PumukyDev'
+author = 'PumukyDev'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
