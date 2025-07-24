@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portswigger Websecurity Academy \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-24 17:42+0000\n"
+"POT-Creation-Date: 2025-07-24 17:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Contenido:"
 msgstr ""
 
 #: ../../index.rst:2
-msgid "Apuntes Haking Web (|language|)"
+msgid "Apuntes Hacking Web (|language|)"
 msgstr ""
 
 #: ../../index.rst:4

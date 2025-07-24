@@ -1,4 +1,4 @@
-Apuntes Haking Web (|language|)
+Apuntes Hacking Web (|language|)
 ===============================
 
 .. |language| image:: assets/main/en.jpg
